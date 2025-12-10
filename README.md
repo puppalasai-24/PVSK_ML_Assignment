@@ -52,10 +52,6 @@ As described in the report (Section 3):
 - Standardise numeric features using `StandardScaler`  
 - Train/validation/test split: **70% / 15% / 15%**
 
-### ⚠️ Dataset Not Included in Repository  
-Kaggle datasets cannot be redistributed via GitHub due to size and licence constraints.
-
-Please download the dataset manually from Kaggle and place it in:
 
 
 ---
